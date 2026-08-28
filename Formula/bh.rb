@@ -1,8 +1,8 @@
 class Bh < Formula
   desc "Fast, interactive bash history search with fuzzy matching and smart ranking"
   homepage "https://github.com/senkentarou/bh"
-  url "https://github.com/senkentarou/bh/releases/download/v0.6.0/bh-aarch64-apple-darwin.tar.gz"
-  sha256 "93f8b95e9df431e24a1c72e61423d7e7b06e27572d1a1da3755ab7c6817c32d6"
+  url "https://github.com/senkentarou/bh/releases/download/v0.6.1/bh-aarch64-apple-darwin.tar.gz"
+  sha256 "9e75ff8ff86d937bb0acf0386b9cc161b7dd9e037ac8fbd9a23d20429a45b782"
   license "MIT"
 
   depends_on arch: :arm64
